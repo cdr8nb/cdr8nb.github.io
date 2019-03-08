@@ -5,6 +5,12 @@ footer {
     display: block;
     background-color: #FFFFFF;
 }
+.logo {
+    z-index: 1;
+}
+h1 {
+    z-index: 10;
+}
 table {
     padding: 15px;
 }
