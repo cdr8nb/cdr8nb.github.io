@@ -31,14 +31,13 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background-color: #4CAF50;
+  background-color: #000;
   color: white;
 }
-li a:visited {
-  color: #4CAF50;
-}
+
 .active {
-    background-color: red;
+    background-color: #000;
+  color: white;
 }
 .name {
     margin: 0;
