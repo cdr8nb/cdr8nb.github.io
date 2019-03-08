@@ -15,7 +15,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: grey;
+  width: 30%;
   top: 16px;
   right: 80px;
   position: absolute;
