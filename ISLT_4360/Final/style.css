@@ -15,9 +15,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+    padding-right: 20px;
   background-color: grey;
  top: 16px;
-  right: 80px;
+  right: 60px;
   position: absolute;
 }
 li {
