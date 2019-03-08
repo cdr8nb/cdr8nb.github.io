@@ -30,6 +30,7 @@ li a {
   color: black;
   padding: 14px 16px;
   text-decoration: none;
+    radius: 10px;
 }
 li a:hover {
   background-color: #000;
